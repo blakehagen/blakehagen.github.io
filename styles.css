@@ -20,3 +20,8 @@ html {
 	align-items: center;
 	border: 1px solid red;
 }
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 60px;
+}
