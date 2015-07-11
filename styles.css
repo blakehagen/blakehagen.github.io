@@ -21,8 +21,8 @@ html, body {
 	margin-top: 70px;
 }
 
-#no-margin {
-	margin-top: 0px;
+#less-margin {
+	margin-top: 20px;
 }
 
 h1 {
