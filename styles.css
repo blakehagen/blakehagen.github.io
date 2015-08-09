@@ -33,7 +33,7 @@ a:active {
 }
 
 .title-container {
-	width: 85%;
+	width: 95%;
 	display: flex;
 	flex-flow: wrap;
 	justify-content: center;
@@ -61,13 +61,13 @@ h1 {
 
 h2 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 40px;
+	font-size: 34px;
 	margin: 0;
 }
 
 h3 {
 	font-family: 'Roboto', sans-serif;
-	font-size: 30px;
+	font-size: 22px;
 	margin: 0;
 }
 
