@@ -28,8 +28,11 @@ a:active {
 	width: 100%;
 	display: -webkit-flex;
 	display: flex;
+	-webkit-flex-flow: wrap;
 	flex-flow: wrap;
+	-webkit-justify-content: center;
 	justify-content: center;
+	-webkit-align-items: center;
 	align-items: center;
 }
 
@@ -37,8 +40,11 @@ a:active {
 	width: 95%;
 	display: -webkit-flex;
 	display: flex;
+	-webkit-flex-flow: wrap;
 	flex-flow: wrap;
+	-webkit-justify-content: center;
 	justify-content: center;
+	-webkit-align-items: center;
 	align-items: center;
 	margin-top: 70px;
 }
@@ -50,8 +56,11 @@ a:active {
 .center {
 	display: -webkit-flex;
 	display: flex;
+	-webkit-flex-flow: wrap;
 	flex-flow: wrap;
+	-webkit-justify-content: center;
 	justify-content: center;
+	-webkit-align-items: center;
 	align-items: center;
 	text-align: center;
 }
