@@ -26,16 +26,18 @@ a:active {
 
 .container {
 	width: 100%;
+	display: -webkit-flex;
 	display: flex;
-	flex-flow: wrap;
+	-webkit-flex-flow: -webkit-wrap;
 	justify-content: center;
 	align-items: center;
 }
 
 .title-container {
 	width: 95%;
+	display: -webkit-flex;
 	display: flex;
-	flex-flow: wrap;
+	-webkit-flex-flow: wrap;
 	justify-content: center;
 	align-items: center;
 	margin-top: 70px;
@@ -46,6 +48,7 @@ a:active {
 }
 
 .center {
+	display: -webkit-flex;
 	display: flex;
 	flex-flow: wrap;
 	justify-content: center;
