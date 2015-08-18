@@ -28,7 +28,7 @@ a:active {
 	width: 100%;
 	display: -webkit-flex;
 	display: flex;
-	-webkit-flex-flow: -webkit-wrap;
+	flex-flow: wrap;
 	justify-content: center;
 	align-items: center;
 }
@@ -37,7 +37,7 @@ a:active {
 	width: 95%;
 	display: -webkit-flex;
 	display: flex;
-	-webkit-flex-flow: wrap;
+	flex-flow: wrap;
 	justify-content: center;
 	align-items: center;
 	margin-top: 70px;
