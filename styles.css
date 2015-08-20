@@ -53,6 +53,11 @@ a:active {
 	margin-top: 20px;
 }
 
+#bottom-margin {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
 .center {
 	display: -webkit-flex;
 	display: flex;
@@ -143,9 +148,6 @@ h6 {
 	color: #000;
 }
 
-.blank {
-	margin: 20px;
-}
 
 
 
