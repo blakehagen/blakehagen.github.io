@@ -50,14 +50,14 @@ a:active {
 }
 
 .jet {
-	display: -webkit-flex;
+/*	display: -webkit-flex;
 	display: flex;
 	-webkit-flex-flow: wrap;
 	flex-flow: wrap;
 	-webkit-justify-content: center;
 	justify-content: center;
 	-webkit-align-items: center;
-	align-items: center;
+	align-items: center;*/
 
 }
 
