@@ -49,6 +49,18 @@ a:active {
 	margin-top: 70px;
 }
 
+.jet {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: wrap;
+	flex-flow: wrap;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+
+}
+
 #less-margin {
 	margin-top: 20px;
 }
