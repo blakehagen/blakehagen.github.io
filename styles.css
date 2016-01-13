@@ -17,12 +17,14 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
-    color: #000;
+    color: #FFF;
+    font-weight: 100;
 }
 
 a:active {
     text-decoration: none;
-    color: #000;
+    color: #FFF;
+    font-weight: 100;
 }
 
 .container {
