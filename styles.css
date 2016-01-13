@@ -6,7 +6,8 @@ html, body {
 
 a:link {
     text-decoration: none;
-    color: #000;
+    color: #FFF;
+    font-weight: 100;
 }
 
 a:visited {
@@ -144,6 +145,7 @@ h3 {
 	font-size: 22px;
 	margin: 0;
 	color: #FFF;
+    font-weight: 100;
 }
 
 h5 {
